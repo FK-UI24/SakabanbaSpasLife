@@ -13,6 +13,7 @@
 
 ## Sytem Overview
 本システムはUnityプロジェクトのみで構成されています。
+本システムはこのリポジトリだけで動作します。
 
 ## Teck Stack
 - Unity
